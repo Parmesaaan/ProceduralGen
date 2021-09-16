@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c81fd3d93f178646a883d6f06725edc, type: 3}
+  m_Name: Mountain Rivers Texture Settings
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  layers:
+  - texture: {fileID: 2800000, guid: d65b9306f4e9c594ba51a1cbc19994fe, type: 3}
+    textureScale: 4
+    startHeight: 0
+    tint: {r: 0.20372018, g: 0.34408927, b: 0.3962264, a: 0}
+    tintStrength: 0.177
+    blendStrength: 0.109
+  - texture: {fileID: 2800000, guid: de1c9e73a04c4e34fb323cfd61bf8b23, type: 3}
+    textureScale: 4
+    startHeight: 0.15
+    tint: {r: 0.7264151, g: 0.677582, b: 0.51054645, a: 0}
+    tintStrength: 0.197
+    blendStrength: 0.109
+  - texture: {fileID: 2800000, guid: 94a2638bddd5f0b49871adac985e5ada, type: 3}
+    textureScale: 4
+    startHeight: 0.4
+    tint: {r: 0.7264151, g: 0.677582, b: 0.51054645, a: 0}
+    tintStrength: 0.197
+    blendStrength: 0.419
+  - texture: {fileID: 2800000, guid: 1e1c83e11722b1842826e471ee7c9278, type: 3}
+    textureScale: 2
+    startHeight: 0.8
+    tint: {r: 0.7264151, g: 0.677582, b: 0.51054645, a: 0}
+    tintStrength: 0.197
+    blendStrength: 0.411
